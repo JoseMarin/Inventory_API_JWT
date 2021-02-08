@@ -23,7 +23,7 @@ DataBase          Microsoft Sql Server
 Virtual           VirtualBox 6.1
 SO                Fedora 32
 ```
-###### packages Nuget 
+###### Packages Nuget 
 ```
 Install-Package Microsoft.VisualStudio.Web.CodeGeneration.Design  -Version 3.1.4
 Install-Package Microsoft.EntityFrameworkCore.Tools               -Version 3.1.8
@@ -57,6 +57,6 @@ Token
 POST     /api/Token
 
 ```
-#### 5. Screenshot imagen que indique cómo debe verse el proyecto.
-![image](https://user-images.githubusercontent.com/16636086/106975608-1f4eb680-6757-11eb-90c9-af48dba80385.png)
+#### 5. Screenshot /home
+![image](https://user-images.githubusercontent.com/16636086/107164559-ea896c00-69af-11eb-97e7-71f7a87d9bad.png)
 
