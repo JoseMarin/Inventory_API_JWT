@@ -40,7 +40,8 @@ Install-Package Microsoft.AspNetCore.Authentication.JwtBearer     -Version 3.1.8
 ```
 ###### Scaffold-DbContext 
 ```
-Scaffold-DbContext “Server=192.168.1.135;Database=Inventory;User ID=remote;Password=remote” Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+Scaffold-DbContext “Server=192.168.1.135;Database=Inventory;User ID=remote;Password=remote” 
+Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
 
 ```
 #### 4. URIs endpoints.
