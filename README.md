@@ -55,7 +55,7 @@ DELETE   /api/Products/{id}
 GET      /api/Products/stock
 
 Token
-POST     /api/Token
+POST     /api/Token ----> { "Email": "InventoryAdmin@abc.com", "Password": "$admin@2017" }
 
 ```
 #### 5. Screenshot /home
