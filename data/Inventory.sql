@@ -1,7 +1,7 @@
 Create database Inventory;
 use Inventory;
 
-Create Table Products(
+Create Table Product(
 ProductId Int Identity(1,1) Primary Key,
 Name Varchar(100) Not Null,
 Category Varchar(100),
