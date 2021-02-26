@@ -1,7 +1,7 @@
 # Inventory_API JWT
 Inventory_API (MSSql JWT)
 
-#### 1. Description
+#### 1. Description API
 ```
 Demo API REST creada con .NET COre 3.1 utilizando JWT y conectada con base de datos 
 MS Sql Virtualizada sobre Fedora 32  y Virtualbox 6.1. Aplicación con fines educativos.
